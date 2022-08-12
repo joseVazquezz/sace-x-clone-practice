@@ -122,4 +122,9 @@ section {
 	text-transform: uppercase;
 	font-weight: bold;
 	overflow: hidden;
+	z-index: 2;
 }
+.btn:hover span {
+	color: #000;
+}
+/* commit test*/
